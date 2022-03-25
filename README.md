@@ -11,8 +11,7 @@ In this state, I use mobilenet_v2 with COCO dataset from this link >> http://dow
 ## Next step?
 
 As part of my learning I have plan to 
-1. implement tensorflow training on the custom object which is not included this COCO dataset. 
-2. YOLOv5 model inference from tensorflow model using opencv.
-3. face detection model inference from tensorflow.
+1. implement pytorch training on the custom object which is not included this COCO dataset. 
+2. YOLOv5 model inference from pytorch model using opencv.
 
 
